@@ -1,4 +1,4 @@
 ## Hi, I'm Till.
 
 > 🌱 Learning at Uni Potsdam \
-> 📫 [mail](zemanntill@gmail.com)
+> 📫 How to reach me: zemanntill@gmail.com
