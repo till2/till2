@@ -1,4 +1,8 @@
-## Hi, I'm Till
+## Hi there! - Till here,
 
-> 🌱 Learning at Uni Potsdam \
-> 📫 Reach me at zemanntill@gmail.com
+- 📖 Visit my notebook-website [here](https://till2.github.io/)
+
+- 📫 Reach me via zemanntill@gmail.com or on [LinkedIn](https://www.linkedin.com/in/tillzemann/)!
+
+
+- 🌱 Learning at Uni Potsdam
