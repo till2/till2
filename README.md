@@ -17,7 +17,6 @@
 
 <h2>Stats</h2>
 
-<!-- multicol stats -->
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=till2&exclude_repo=CS50-AI-Projects&theme=dracula&layout=compact)](https://github.com/till2) | ![Till Zemann's GitHub stats](https://github-readme-stats.vercel.app/api?username=till2&show_icons=true&theme=dracula&hide=contribs,issues) |
 |---|---|
 
