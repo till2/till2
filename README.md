@@ -22,11 +22,11 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<h2>Team research projects</h2>
+<h2>Team projects</h2>
 
 [![BRATS](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=brain_tumor_segmentation&theme=dracula)](https://github.com/till2/brain_tumor_segmentation)
 
-<h2>My Projects</h2>
+<h2>My projects</h2>
 
 | [![BackpropFromScratch](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=Backpropagation-from-Scratch&theme=dracula)](https://github.com/till2/Backpropagation-from-Scratch) | [![SearchAlgosVisual](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=Search-Algos-Visual&theme=dracula)](https://github.com/till2/Search-Algos-Visual) |
 |---|---|
