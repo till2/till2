@@ -31,3 +31,8 @@
 | [![BackpropFromScratch](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=Backpropagation-from-Scratch&theme=dracula)](https://github.com/till2/Backpropagation-from-Scratch) | [![SearchAlgosVisual](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=Search-Algos-Visual&theme=dracula)](https://github.com/till2/Search-Algos-Visual) |
 |---|---|
 | [![PolicyGradientMethods](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=policy-gradient-methods&theme=dracula)](https://github.com/till2/policy-gradient-methods) | [![GridworldEnv](https://github-readme-stats.vercel.app/api/pin/?username=till2&repo=GridworldEnv&theme=dracula)](https://github.com/till2/GridworldEnv) |
+
+<h2>Tools</h2>
+
+| <a href="https://jax.readthedocs.io/en/latest/"><img alt="JAX" src="https://user-images.githubusercontent.com/89709351/193608386-46676b65-fe40-4e74-961f-5eece8ff9ab8.png" width="78" height="45"></a> | <a href="https://www.tensorflow.org/api_docs/python/tf"><img alt="TF" src="https://user-images.githubusercontent.com/89709351/193608401-1ba45a6f-f9a0-4d30-9c43-9fcdf5d5dcfb.png" width="40" height="45"></a> | <a href="https://pytorch.org/docs/stable/index.html"><img alt="Torch" src="https://user-images.githubusercontent.com/89709351/193610474-1e649cbb-9191-495e-aba4-d49238833a8c.png" width="140" height="45"></a> |
+|---|---|---|
