@@ -2,7 +2,7 @@
 
 ### 📖 Visit [my notebook](https://till2.github.io/) (wip)
 
-### 🌱 Learning at [Uni Potsdam](https://www.uni-potsdam.de/de/) (B.Sc. Computational Science)
+### 🌱 Student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/) (B.Sc. Computational Science)
 
 <h2>Reach me via</h2>
 
