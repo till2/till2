@@ -10,7 +10,7 @@
 <img alt="mailbox" src="https://user-images.githubusercontent.com/89709351/193474201-096ff3d1-6f4b-4de1-8f6f-d5cac6241fa8.png" width="25" height="25">&nbsp; LinkedIn
 </a></h3>
 
-<h3><a href="mailto:till.zemann@uni-potsdam.de?subject=%5BMoodle%5D%20%20-%20Hi!">
+<h3><a href="mailto:zemanntill@gmail.com?subject=GitHub-Mail">
 <img alt="mailbox" src="https://user-images.githubusercontent.com/89709351/193474200-40f2bd18-bf55-4865-b628-d7d7d6ddc9a2.png" width="25" height="25">&nbsp; zemanntill@gmail.com
 </a></h3>
 
