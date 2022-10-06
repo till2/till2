@@ -14,13 +14,13 @@
 <img alt="mailbox" src="https://user-images.githubusercontent.com/89709351/193474200-40f2bd18-bf55-4865-b628-d7d7d6ddc9a2.png" width="25" height="25">&nbsp; zemanntill@gmail.com
 </a></h3>
 
-
+<!--
 <h2>Stats</h2>
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=till2&exclude_repo=CS50-AI-Projects&theme=dracula&layout=compact)](https://github.com/till2) | ![Till Zemann's GitHub stats](https://github-readme-stats.vercel.app/api?username=till2&show_icons=true&theme=dracula&hide=contribs,issues) |
 |---|---|
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+-->
 
 <h2>Team projects</h2>
 
