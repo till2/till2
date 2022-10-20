@@ -1,8 +1,8 @@
 # Hi there! - Till here,
 
-### 📖 Visit [my notebook](https://till2.github.io/) (wip)
+### 🌱 Student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/) (B.Sc. CS).
 
-### 🌱 Student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/) (B.Sc. CS)
+### 📖 [My notebook](https://till2.github.io/) (wip).
 
 <h2>Reach me via</h2>
 
