@@ -1,8 +1,8 @@
 # Hi there! - Till here,
 
-### 🌱 Student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/) (B.Sc. CS).
+### 🌱 Computer Science student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/).
 
-### 📖 [My notebook](https://till2.github.io/) (wip).
+### 📖 [My notebook](https://till2.github.io/) (always work in progress 👷‍♂️).
 
 <h2>Reach me via</h2>
 
