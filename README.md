@@ -1,6 +1,6 @@
 # Hi there! - Till here,
 
-### 🌱 Computer Science student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/).
+### 🌱 Student at [University of Potsdam](https://www.uni-potsdam.de/de/cs/).
 
 ### 📖 [My notebook](https://till2.github.io/) (always work in progress 👷‍♂️).
 
