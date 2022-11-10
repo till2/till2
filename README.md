@@ -30,7 +30,7 @@ till = {
 <br>
 
 <p align="left"> <!-- center -->
-<a href="mailto:zemanntill@gmail.com?subject=GitHub-Mail"><img align="center" src="https://user-images.githubusercontent.com/89709351/193474200-40f2bd18-bf55-4865-b628-d7d7d6ddc9a2.png" alt="gmail" height="35" width="32" /></a> &nbsp;
+<a href="mailto:zemanntill@gmail.com?subject=Hello-from-GitHub"><img align="center" src="https://user-images.githubusercontent.com/89709351/193474200-40f2bd18-bf55-4865-b628-d7d7d6ddc9a2.png" alt="gmail" height="35" width="32" /></a> &nbsp;
 <a href="https://linkedin.com/in/tillzemann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tillzemann" height="30" width="40" /></a> &nbsp;
 <a href="https://till2.github.io"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1242/1242450.png" alt="https://till2.github.io/feed.xml" height="33" width="33" /></a>
 </p>
