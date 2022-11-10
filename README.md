@@ -1,6 +1,6 @@
 <h2> Hi, I'm Till! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/89709351/200965684-5902e56a-dfe2-4a01-828b-a0d2b8ec73b5.png" width="230">
-<p><em>Student at <a href="https://www.uni-potsdam.de/en/cs/">University of Potsdam</a>.
+<p><em>Student at the <a href="https://www.uni-potsdam.de/en/cs/">University of Potsdam</a>.
 </em></p>
 
 [![Linkedin: tillzemann](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tillzemann/)](https://www.linkedin.com/in/tillzemann/)
@@ -15,7 +15,7 @@ till = {
     "major": "Computational Science",
     "interests": ["AI", "ML", "Deep Learning", "Reinforcement Learning"],
     "hobbys": ["Reading", "Writing", "Meditation"],
-    "projects": ["Blog", "Open Source Projects"],
+    "projects": ["Open Source Projects", "Blog"],
 }
 ```
 
