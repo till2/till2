@@ -21,7 +21,7 @@ till = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Latest blog posts:
 
-- 🂱 [Learning to play blackjack optimally](https://till2.github.io/blog/2022/10/19/openai-gym-blackjack)
+- 🂱 [Learning to play blackjack optimally](https://till2.github.io/blog/2022/10/19/blackjack)
 - 🤖 [Introduction to multi-agent pathfinding](https://till2.github.io/blog/2022/10/20/intro-to-mapf)
 - 📈 [Baysian optimization](https://till2.github.io/blog/2022/09/27/bayesian)
 - 📚 [Reading](https://till2.github.io/blog/2022/11/10/reading)
