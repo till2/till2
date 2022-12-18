@@ -21,8 +21,8 @@ till = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Latest blog posts:
 
-- 🤖 [Actor Critics]([https://till2.github.io/blog/2022/10/20/mapf](https://till2.github.io/blog/2022/12/15/actorcritic))
-- 📈 [Monte-Carlo Tree Search]([https://till2.github.io/blog/2022/09/27/bayesian](https://till2.github.io/blog/2022/12/04/rl_basics))
+- 🤖 [Actor Critics](https://till2.github.io/blog/2022/12/15/actorcritic)
+- 📈 [Monte-Carlo Tree Search](https://till2.github.io/blog/2022/12/04/rl_basics)
 - 🂱 [Learning to play blackjack optimally](https://till2.github.io/blog/2022/10/19/blackjack)
 - 📚 [Reading](https://till2.github.io/blog/2022/11/10/reading)
 
