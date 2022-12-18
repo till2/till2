@@ -1,4 +1,4 @@
-<h2> Hi, I'm Till! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Till!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/89709351/200965684-5902e56a-dfe2-4a01-828b-a0d2b8ec73b5.png" width="230">
 <p><em>Student at the <a href="https://www.uni-potsdam.de/en/cs/">University of Potsdam</a>.
 </em></p>
@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/github/followers/till2?label=follow&style=social)](https://github.com/till2)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```python
 till = {
@@ -19,7 +19,7 @@ till = {
 }
 ```
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Latest blog posts:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest blog posts:
 
 - 🤖 [Actor Critics](https://till2.github.io/blog/2022/12/15/actorcritic)
 - 📈 [Monte-Carlo Tree Search](https://till2.github.io/blog/2022/12/04/rl_basics)
@@ -40,6 +40,10 @@ till = {
 
 Cheers, 🧑‍🚀  [@till2](https://github.com/till2)
 
+<!--
+Spirited Away GIF:
+<img src="https://64.media.tumblr.com/6fa4b2f5f196082f324f90fbcdc87b9e/tumblr_osiu7yDpKb1shdhdjo1_540.gif" width="120">
+-->
 
 <!--
 <h3 align="left">Statistics:</h3>
