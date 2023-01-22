@@ -22,7 +22,7 @@ till = {
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest blog posts:
 
 - 🤖 [Actor Critics](https://till2.github.io/blog/2022/12/20/actorcritic)
-- 🂱 [Learning to play blackjack optimally](https://till2.github.io/blog/2022/10/19/blackjack)
+- 🎲 [Importance Sampling](https://till2.github.io/blog/2022/12/22/importance-sampling)
 - 📚 [Reading](https://till2.github.io/blog/2022/11/10/reading)
 
 <!-- - 📈 [Monte-Carlo Tree Search](https://till2.github.io/blog/2022/12/08/mcts) -->
