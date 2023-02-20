@@ -21,7 +21,8 @@ till = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest blog posts:
 
-- 🤖 [Actor Critics](https://till2.github.io/blog/2022/12/20/actorcritic)
+- 🤖 [Transformers](https://till2.github.io/blog/2023/02/17/transformers)
+- 👾 [Actor Critics](https://till2.github.io/blog/2022/12/20/actorcritic)
 - 🎲 [Importance Sampling](https://till2.github.io/blog/2022/12/22/importance-sampling)
 - 📚 [Reading](https://till2.github.io/blog/2022/11/10/reading)
 
