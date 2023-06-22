@@ -13,9 +13,7 @@
 till = {
     "age": 20,
     "major": "Computational Science",
-    "interests": ["AI", "ML", "Deep Learning", "Reinforcement Learning"],
-    "hobbys": ["Reading", "Writing", "Meditation"],
-    "projects": ["Open Source Projects", "Blog"],
+    "interests": ["Deep Learning", "Reinforcement Learning"],
 }
 ```
 
