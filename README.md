@@ -1,5 +1,5 @@
 <h2> Hi, I'm Till!</h2>
-<img align='right' src="https://user-images.githubusercontent.com/89709351/200965684-5902e56a-dfe2-4a01-828b-a0d2b8ec73b5.png" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/89709351/200965684-5902e56a-dfe2-4a01-828b-a0d2b8ec73b5.png" width="120">
 <p><em>Student at the <a href="https://www.uni-potsdam.de/en/cs/">University of Potsdam</a>.
 </em></p>
 
@@ -12,12 +12,14 @@
 ```python
 till = {
     "age": 21,
-    "major": "Computational Science",
+    "major": "Data Engineering",
     "interests": ["Deep Learning", "Reinforcement Learning"],
 }
 ```
 
+
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Latest blog posts:
+
 
 - 🤖 [Transformers](https://till2.github.io/blog/2023/02/17/transformers)
 - 👾 [Actor Critics](https://till2.github.io/blog/2022/12/20/actorcritic)
@@ -36,7 +38,7 @@ till = {
 
 ---
 
-Cheers, 🧑‍🚀  [@till2](https://github.com/till2)
+Cheers,  [@till2](https://github.com/till2)
 
 <!--
 Spirited Away GIF:
