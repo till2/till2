@@ -1,7 +1,5 @@
 <h2> Hi, I'm Till!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/89709351/200965684-5902e56a-dfe2-4a01-828b-a0d2b8ec73b5.png" width="120">
-<p><em>Student at the <a href="https://www.uni-potsdam.de/en/cs/">University of Potsdam</a>.
-</em></p>
 
 [![Linkedin: tillzemann](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tillzemann/)](https://www.linkedin.com/in/tillzemann/)
 [![GitHub](https://img.shields.io/github/followers/till2?label=follow&style=social)](https://github.com/till2)
